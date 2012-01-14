@@ -1,4 +1,4 @@
 # # RUBY ON RAILS- FIRST APPLICATION.
-HELOO WORLD !!!! HAHAHA
-This is MY first application for [*RUBY ON RAIL APPLICATION*] (http://www.facebook.com) by ME [*SOUMYA ROY*](http://www.facebook.com).
+HELOO WORLD !!!!
+This is MY first application for [*RUBY ON RAIL APPLICATION*] (http://www.twitter.com) by ME [*SOUMYA ROY*](http://www.twitter.com).
 THIS IS THE NEWEST README
